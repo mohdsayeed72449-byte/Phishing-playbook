@@ -1,0 +1,48 @@
+From: "PayPal Security" <security-alert@paypa1-support.xyz>
+To: user@example.com
+Subject: URGENT: Your PayPal account has been suspended - Action Required
+Date: Mon, 10 Jun 2026 09:15:33 +0000
+Reply-To: reply-here@attacker-collect.tk
+Return-Path: <bounce@paypa1-support.xyz>
+Message-ID: 
+Received-SPF: fail (domain of paypa1-support.xyz does not designate 185.234.22.11 as permitted sender)
+Authentication-Results: mx.example.com;
+   spf=fail smtp.mailfrom=paypa1-support.xyz;
+   dkim=fail header.d=paypa1-support.xyz;
+   dmarc=fail action=none header.from=paypa1-support.xyz
+X-Originating-IP: 185.234.22.11
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Valued Customer,
+
+We have detected UNUSUAL ACTIVITY on your PayPal account. Your account has been temporarily SUSPENDED for your protection.
+
+You must verify your identity immediately to restore access to your account.
+
+CLICK HERE TO VERIFY NOW:
+http://185.234.22.11/paypal/secure-login/verify.php
+
+Or visit our secure portal:
+https://paypal-account-verify.xyz/login?ref=urgent&user=confirm
+
+If you do not verify your account within 24 hours, your account will be permanently closed and all funds will be held.
+
+To verify, you will need to provide:
+- Your full name
+- Date of birth
+- PayPal login email and password
+- Credit card number linked to your account
+- Social security number (for identity verification)
+
+Failure to verify will result in permanent suspension.
+
+Do not ignore this email. Action required immediately.
+
+Kindly confirm your details by clicking the link above.
+
+Thank you,
+PayPal Security Team
+PayPal Inc.
+
+This email was sent to user@example.com. If you did not request this, click here to unsubscribe: http://bit.ly/remove-me-paypal

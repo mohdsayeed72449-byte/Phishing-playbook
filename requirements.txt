@@ -1,0 +1,6 @@
+# Phishing Detection Tool — Dependencies
+# All built-in modules used — no external packages needed.
+# Python 3.7+ required.
+#
+# Optional (for coloured terminal output — already included as ANSI codes):
+# colorama==0.4.6

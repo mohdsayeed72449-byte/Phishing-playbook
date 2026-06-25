@@ -1,0 +1,27 @@
+From: "GitHub" <noreply@github.com>
+To: mohdsayeed@example.com
+Subject: Your repository was starred
+Date: Wed, 12 Jun 2026 14:22:11 +0000
+Reply-To: noreply@github.com
+Return-Path: <noreply@github.com>
+Message-ID: <20260612142211.abc123@github.com>
+Received-SPF: pass (domain of github.com designates 192.30.252.0 as permitted sender)
+Authentication-Results: mx.example.com;
+   spf=pass smtp.mailfrom=github.com;
+   dkim=pass header.d=github.com;
+   dmarc=pass action=none header.from=github.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com; s=pf2014;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi mohdsayeed,
+
+Someone starred your repository incident-response-playbook.
+
+Repository: https://github.com/mohdsayeed/incident-response-playbook
+
+You can manage your notification preferences at:
+https://github.com/settings/notifications
+
+Thanks,
+The GitHub Team
